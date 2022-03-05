@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "918779574032",
+    "project_id": "aktumcq",
+    "storage_bucket": "aktumcq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918779574032:android:e1cc4535114b880f9f1795",
+        "android_client_info": {
+          "package_name": "com.aktumcq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918779574032-ueesps4a444hv9v7i4unm2gjvfafso2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6ZNn96XE4EFOg-k2zwK6kludTJZYEt3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918779574032-ueesps4a444hv9v7i4unm2gjvfafso2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
